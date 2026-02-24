@@ -28,3 +28,5 @@ Voice-controlled desktop assistant using Whisper, Voicevox, and Spotify Web API
 - n8n, Workflow Automation
 - REST APIs, Event-driven systems
 - Streamlit, Git, GitHub
+- REST APIs, OAuth, Event-driven systems
+- Async programming
