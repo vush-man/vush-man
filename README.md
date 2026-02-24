@@ -8,13 +8,13 @@ with a focus on clean architecture and real-world use cases.
 
 ## 🚀 Featured Projects
 
-### 🔹 [Chatbot Lite](https://github.com/vush-man/chatbot-lite)
+### [Chatbot Lite](https://github.com/vush-man/chatbot-lite)
 LangGraph-based conversational chatbot with stateful memory and streaming responses
 
-### 🔹 [Podcaster Agent](https://github.com/vush-man/Podcaster_Agent)
+### [Podcaster Agent](https://github.com/vush-man/Podcaster_Agent)
 CrewAI-powered multi-agent automation pipeline for research → script → audio
 
-### 🔹 [Anime Spotify Assistant](https://github.com/vush-man/anime-spotify-assistant)
+### [Anime Spotify Assistant](https://github.com/vush-man/anime-spotify-assistant)
 Voice-controlled desktop assistant using Whisper, Voicevox, and Spotify Web API
 
 
