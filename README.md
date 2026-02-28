@@ -8,7 +8,7 @@ with a focus on clean architecture and real-world use cases.
 
 ## 🚀 Featured Projects
 
-### [AROM-AI-Automation-RAG-Platform](https://github.com/vush-man/AROM-AI-Automation-RAG-Platform.git)
+### [AROM-Automation-Enterprise-Intelligence-Layer](https://github.com/vush-man/AROM-Autonomous-Enterprise-Intelligence-Layer.git)
 An AI automation platform that turns documents and inboxes into intelligent, transparent, decision-ready workflows using RAG, streaming LLMs, and real-time tool orchestration
 
 ### [Chatbot Lite](https://github.com/vush-man/chatbot-lite)
