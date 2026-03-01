@@ -34,5 +34,3 @@ Voice-controlled desktop assistant using Whisper, Voicevox, and Spotify Web API
 - Streamlit, Git, GitHub
 - REST APIs, OAuth, Event-driven systems
 - Async programming
-
-[![](https://visitcount.itsvg.in/api?id=vush-man&icon=0&color=0)](https://visitcount.itsvg.in)
