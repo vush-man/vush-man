@@ -9,7 +9,7 @@ with a focus on clean architecture and real-world use cases.
 ## 🚀 Featured Projects
 
 ### [AROM-Automation-Enterprise-Intelligence-Layer](https://github.com/vush-man/AROM-Autonomous-Enterprise-Intelligence-Layer.git)
-An AI automation platform that turns documents and inboxes into intelligent, transparent, decision-ready workflows using RAG, streaming LLMs, and real-time tool orchestration
+An enterprise AI decision layer that links fragmented operational data and transforms it into transparent, confidence-scored actions using RAG and real-time LLM orchestration
 
 ### [Chatbot Lite](https://github.com/vush-man/chatbot-lite)
 LangGraph-based conversational chatbot with stateful memory and streaming responses
