@@ -12,7 +12,7 @@ with a focus on clean architecture and real-world use cases.
 An enterprise AI decision layer that links fragmented operational data and transforms it into transparent, confidence-scored actions using RAG and real-time LLM orchestration
 
 ### [Chatbot Lite](https://github.com/vush-man/chatbot-lite)
-LangGraph-based conversational chatbot with stateful memory and streaming responses
+LangGraph-based conversational chatbot with RAG and MCP Tool Calling Support, Stateful Memory and Streaming Responses
 
 ### [Podcaster Agent](https://github.com/vush-man/Podcaster_Agent)
 CrewAI-powered multi-agent automation pipeline for research → script → audio
