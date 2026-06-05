@@ -3,7 +3,7 @@
 AI Automation-focused Computer Science undergraduate with hands-on experience in
 agent-based AI systems, workflow automation, and API-driven applications.
 
-I build practical automation systems using Python, LangGraph, CrewAI, n8n, and LLMs, 
+I build practical automation systems using Python, LangGraph, CrewAI, n8n, OpenCV and LLMs, 
 with a focus on clean architecture and real-world use cases.
 
 ## 🚀 Featured Projects
@@ -34,3 +34,4 @@ Voice-controlled desktop assistant using Whisper, Voicevox, and Spotify Web API
 - Streamlit, Git, GitHub
 - REST APIs, OAuth, Event-driven systems
 - Async programming
+- OpenCV, YOLO, SORT, Deep SORT
