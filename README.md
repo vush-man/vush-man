@@ -8,7 +8,7 @@ with a focus on clean architecture and real-world use cases.
 
 ## 🚀 Featured Projects
 
-### [Object Detection and Tracking Deep SORT]([https://github.com/vush-man/AROM-Autonomous-Enterprise-Intelligence-Layer.git](https://github.com/vush-man/Object-Detection-and-Tracking-Deep-SORT.git)
+### [Object Detection and Tracking Deep SORT](https://github.com/vush-man/Object-Detection-and-Tracking-Deep-SORT.git)
 Real-time object detection and tracking with YOLOv8 and Deep SORT
 
 ### [Chatbot Lite](https://github.com/vush-man/chatbot-lite)
