@@ -8,8 +8,8 @@ with a focus on clean architecture and real-world use cases.
 
 ## 🚀 Featured Projects
 
-### [AROM-Automation-Enterprise-Intelligence-Layer](https://github.com/vush-man/AROM-Autonomous-Enterprise-Intelligence-Layer.git)
-An enterprise AI decision layer that links fragmented operational data and transforms it into transparent, confidence-scored actions using RAG and real-time LLM orchestration
+### [Object Detection and Tracking Deep SORT]([https://github.com/vush-man/AROM-Autonomous-Enterprise-Intelligence-Layer.git](https://github.com/vush-man/Object-Detection-and-Tracking-Deep-SORT.git)
+Real-time object detection and tracking with YOLOv8 and Deep SORT
 
 ### [Chatbot Lite](https://github.com/vush-man/chatbot-lite)
 LangGraph-based conversational chatbot with RAG and MCP Tool Calling Support, Stateful Memory and Streaming Responses
