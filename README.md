@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vush-man/) [![X](https://img.shields.io/badge/X-Follow-111111?style=flat-square&logo=x&logoColor=white)](https://x.com/nvushman) [![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:goswamiayan111@gmail.com)
 
-![Building intelligent systems](https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:123047,100:0891b2&height=150&section=header&text=BUILD%20%2F%20LEARN%20%2F%20SHIP&fontSize=27&fontColor=ffffff&fontAlignY=42&desc=AI%20Agents%20%E2%80%A2%20Automation%20%E2%80%A2%20Vision&descSize=13&descAlignY=63)
+![Custom cyber-minimal profile banner](https://raw.githubusercontent.com/vush-man/vush-man/main/assets/profile-banner.svg)
 
 </div>
 
