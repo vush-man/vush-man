@@ -4,11 +4,11 @@
 
 ### AI Systems · Automation · Computer Vision · Robotics
 
-*From LLM prototypes to tool-using agents and practical automation.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vush-man/) [![X](https://img.shields.io/badge/X-Follow-111111?style=flat-square&logo=x&logoColor=white)](https://x.com/nvushman) [![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:goswamiayan111@gmail.com)
+*Building tool-using AI and practical automation.*
 
 ![Custom cyber-minimal profile banner](https://raw.githubusercontent.com/vush-man/vush-man/main/assets/profile-banner.svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vush-man/) [![X](https://img.shields.io/badge/X-111111?style=flat-square&logo=x&logoColor=white)](https://x.com/nvushman) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:goswamiayan111@gmail.com)
 
 </div>
 
